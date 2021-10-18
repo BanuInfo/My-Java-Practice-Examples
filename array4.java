@@ -8,6 +8,6 @@ public class array4
 		Arrays.sort(arr);
 		System.out.println("first largest element in array is "+arr[arr.length-1]);
 	    System.out.println("second largest element in array is "+arr[arr.length-2]);
-
+		System.out.println("Thank You");
 	}
 }
